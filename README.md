@@ -4,6 +4,9 @@ A complete **120-Day AI/ML Engineer Career Preparation & Progress Tracking appli
 
 This application helps aspiring AI/ML Engineers organize their learning journey, track daily study progress, practice interview questions, improve technical English, manage job applications, and analyze overall career preparation progress — all from one dashboard.
 
+## 🌐 Live Demo:
+https://ai-ml-study-tracker.streamlit.app
+
 ---
 
 ## 🚀 Features
@@ -289,7 +292,7 @@ applied_date
 # 📁 Project Structure
 
 ```text
-AI-ML-Career-Tracker/
+AI-ML-Study-Tracker/
 │
 ├── app.py
 ├── database.py
@@ -316,7 +319,7 @@ git clone https://github.com/dishapawarkhausi/ai-ml-study-tracker.git
 Move into the project directory:
 
 ```bash
-cd AI-ML-Career-Tracker
+cd AI-ML-Study-Tracker
 ```
 
 ---

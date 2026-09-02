@@ -10,9 +10,6 @@ env/
 # Streamlit
 .streamlit/secrets.toml
 
-# SQLite database
-data/*.db
-
 # OS
 .DS_Store
 Thumbs.db
