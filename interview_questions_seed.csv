@@ -1,0 +1,501 @@
+id,Category,Question,Difficulty,Status
+1,Python,"What is the difference between list, tuple, set and dictionary?",Easy,Not Practiced
+2,Python,Explain mutable vs immutable objects.,Easy,Not Practiced
+3,Python,What are decorators?,Medium,Not Practiced
+4,Python,Explain shallow vs deep copy.,Medium,Not Practiced
+5,Python,What are *args and **kwargs?,Hard,Not Practiced
+6,Python,What is a generator?,Easy,Not Practiced
+7,Python,Explain list comprehensions.,Easy,Not Practiced
+8,Python,Difference between == and is?,Medium,Not Practiced
+9,Python,How does exception handling work?,Medium,Not Practiced
+10,Python,How does Python garbage collection work?,Hard,Not Practiced
+11,Python,"What is the difference between list, tuple, set and dictionary — Explain it with a practical AI/ML example.",Easy,Not Practiced
+12,Python,Explain mutable vs immutable objects. — What are common interview mistakes about this topic?,Easy,Not Practiced
+13,Python,What are decorators — How would you implement it in a real project?,Medium,Not Practiced
+14,Python,Explain shallow vs deep copy. — What are its advantages and limitations?,Medium,Not Practiced
+15,Python,What are *args and **kwargs — How would you debug a problem related to it?,Hard,Not Practiced
+16,Python,What is a generator — Compare it with the closest alternative.,Easy,Not Practiced
+17,Python,Explain list comprehensions. — When would you choose it in production?,Easy,Not Practiced
+18,Python,Difference between == and is — What trade-offs should an engineer consider?,Medium,Not Practiced
+19,Python,How does exception handling work — How would you explain it to a non-technical stakeholder?,Medium,Not Practiced
+20,Python,How does Python garbage collection work — What follow-up question might an interviewer ask?,Hard,Not Practiced
+21,Python,"What is the difference between list, tuple, set and dictionary — Explain it with a practical AI/ML example. (Variant 3)",Easy,Not Practiced
+22,Python,Explain mutable vs immutable objects. — What are its advantages and limitations? (Variant 3),Easy,Not Practiced
+23,Python,What are decorators — When would you choose it in production? (Variant 3),Medium,Not Practiced
+24,Python,Explain shallow vs deep copy. — What follow-up question might an interviewer ask? (Variant 3),Medium,Not Practiced
+25,Python,What are *args and **kwargs — How would you implement it in a real project? (Variant 3),Hard,Not Practiced
+26,Python,What is a generator — Compare it with the closest alternative. (Variant 3),Easy,Not Practiced
+27,Python,Explain list comprehensions. — How would you explain it to a non-technical stakeholder? (Variant 3),Easy,Not Practiced
+28,Python,Difference between == and is — What are common interview mistakes about this topic? (Variant 3),Medium,Not Practiced
+29,Python,How does exception handling work — How would you debug a problem related to it? (Variant 3),Medium,Not Practiced
+30,Python,How does Python garbage collection work — What trade-offs should an engineer consider? (Variant 3),Hard,Not Practiced
+31,Python,"What is the difference between list, tuple, set and dictionary — Explain it with a practical AI/ML example. (Variant 4)",Easy,Not Practiced
+32,Python,Explain mutable vs immutable objects. — What are its advantages and limitations? (Variant 4),Easy,Not Practiced
+33,Python,What are decorators — When would you choose it in production? (Variant 4),Medium,Not Practiced
+34,Python,Explain shallow vs deep copy. — What follow-up question might an interviewer ask? (Variant 4),Medium,Not Practiced
+35,Python,What are *args and **kwargs — How would you implement it in a real project? (Variant 4),Hard,Not Practiced
+36,Python,What is a generator — Compare it with the closest alternative. (Variant 4),Easy,Not Practiced
+37,Python,Explain list comprehensions. — How would you explain it to a non-technical stakeholder? (Variant 4),Easy,Not Practiced
+38,Python,Difference between == and is — What are common interview mistakes about this topic? (Variant 4),Medium,Not Practiced
+39,Python,How does exception handling work — How would you debug a problem related to it? (Variant 4),Medium,Not Practiced
+40,Python,How does Python garbage collection work — What trade-offs should an engineer consider? (Variant 4),Hard,Not Practiced
+41,Python,"What is the difference between list, tuple, set and dictionary — Explain it with a practical AI/ML example. (Variant 5)",Easy,Not Practiced
+42,Python,Explain mutable vs immutable objects. — What are its advantages and limitations? (Variant 5),Easy,Not Practiced
+43,Python,What are decorators — When would you choose it in production? (Variant 5),Medium,Not Practiced
+44,Python,Explain shallow vs deep copy. — What follow-up question might an interviewer ask? (Variant 5),Medium,Not Practiced
+45,Python,What are *args and **kwargs — How would you implement it in a real project? (Variant 5),Hard,Not Practiced
+46,Python,What is a generator — Compare it with the closest alternative. (Variant 5),Easy,Not Practiced
+47,Python,Explain list comprehensions. — How would you explain it to a non-technical stakeholder? (Variant 5),Easy,Not Practiced
+48,Python,Difference between == and is — What are common interview mistakes about this topic? (Variant 5),Medium,Not Practiced
+49,Python,How does exception handling work — How would you debug a problem related to it? (Variant 5),Medium,Not Practiced
+50,Python,How does Python garbage collection work — What trade-offs should an engineer consider? (Variant 5),Hard,Not Practiced
+51,Python,"What is the difference between list, tuple, set and dictionary — Explain it with a practical AI/ML example. (Variant 6)",Easy,Not Practiced
+52,Python,Explain mutable vs immutable objects. — What are its advantages and limitations? (Variant 6),Easy,Not Practiced
+53,Python,What are decorators — When would you choose it in production? (Variant 6),Medium,Not Practiced
+54,Python,Explain shallow vs deep copy. — What follow-up question might an interviewer ask? (Variant 6),Medium,Not Practiced
+55,Python,What are *args and **kwargs — How would you implement it in a real project? (Variant 6),Hard,Not Practiced
+56,Python,What is a generator — Compare it with the closest alternative. (Variant 6),Easy,Not Practiced
+57,Python,Explain list comprehensions. — How would you explain it to a non-technical stakeholder? (Variant 6),Easy,Not Practiced
+58,Python,Difference between == and is — What are common interview mistakes about this topic? (Variant 6),Medium,Not Practiced
+59,Python,How does exception handling work — How would you debug a problem related to it? (Variant 6),Medium,Not Practiced
+60,Python,How does Python garbage collection work — What trade-offs should an engineer consider? (Variant 6),Hard,Not Practiced
+61,SQL,Explain INNER JOIN.,Easy,Not Practiced
+62,SQL,Explain LEFT JOIN.,Easy,Not Practiced
+63,SQL,WHERE vs HAVING?,Medium,Not Practiced
+64,SQL,How does GROUP BY work?,Medium,Not Practiced
+65,SQL,How do you find duplicate rows?,Hard,Not Practiced
+66,SQL,What is a CTE?,Easy,Not Practiced
+67,SQL,Primary key vs foreign key?,Easy,Not Practiced
+68,SQL,What is normalization?,Medium,Not Practiced
+69,SQL,What is a window function?,Medium,Not Practiced
+70,SQL,How do indexes improve performance?,Hard,Not Practiced
+71,SQL,Explain INNER JOIN. — Explain it with a practical AI/ML example.,Easy,Not Practiced
+72,SQL,Explain LEFT JOIN. — What are common interview mistakes about this topic?,Easy,Not Practiced
+73,SQL,WHERE vs HAVING — How would you implement it in a real project?,Medium,Not Practiced
+74,SQL,How does GROUP BY work — What are its advantages and limitations?,Medium,Not Practiced
+75,SQL,How do you find duplicate rows — How would you debug a problem related to it?,Hard,Not Practiced
+76,SQL,What is a CTE — Compare it with the closest alternative.,Easy,Not Practiced
+77,SQL,Primary key vs foreign key — When would you choose it in production?,Easy,Not Practiced
+78,SQL,What is normalization — What trade-offs should an engineer consider?,Medium,Not Practiced
+79,SQL,What is a window function — How would you explain it to a non-technical stakeholder?,Medium,Not Practiced
+80,SQL,How do indexes improve performance — What follow-up question might an interviewer ask?,Hard,Not Practiced
+81,SQL,Explain INNER JOIN. — Explain it with a practical AI/ML example. (Variant 3),Easy,Not Practiced
+82,SQL,Explain LEFT JOIN. — What are its advantages and limitations? (Variant 3),Easy,Not Practiced
+83,SQL,WHERE vs HAVING — When would you choose it in production? (Variant 3),Medium,Not Practiced
+84,SQL,How does GROUP BY work — What follow-up question might an interviewer ask? (Variant 3),Medium,Not Practiced
+85,SQL,How do you find duplicate rows — How would you implement it in a real project? (Variant 3),Hard,Not Practiced
+86,SQL,What is a CTE — Compare it with the closest alternative. (Variant 3),Easy,Not Practiced
+87,SQL,Primary key vs foreign key — How would you explain it to a non-technical stakeholder? (Variant 3),Easy,Not Practiced
+88,SQL,What is normalization — What are common interview mistakes about this topic? (Variant 3),Medium,Not Practiced
+89,SQL,What is a window function — How would you debug a problem related to it? (Variant 3),Medium,Not Practiced
+90,SQL,How do indexes improve performance — What trade-offs should an engineer consider? (Variant 3),Hard,Not Practiced
+91,SQL,Explain INNER JOIN. — Explain it with a practical AI/ML example. (Variant 4),Easy,Not Practiced
+92,SQL,Explain LEFT JOIN. — What are its advantages and limitations? (Variant 4),Easy,Not Practiced
+93,SQL,WHERE vs HAVING — When would you choose it in production? (Variant 4),Medium,Not Practiced
+94,SQL,How does GROUP BY work — What follow-up question might an interviewer ask? (Variant 4),Medium,Not Practiced
+95,SQL,How do you find duplicate rows — How would you implement it in a real project? (Variant 4),Hard,Not Practiced
+96,SQL,What is a CTE — Compare it with the closest alternative. (Variant 4),Easy,Not Practiced
+97,SQL,Primary key vs foreign key — How would you explain it to a non-technical stakeholder? (Variant 4),Easy,Not Practiced
+98,SQL,What is normalization — What are common interview mistakes about this topic? (Variant 4),Medium,Not Practiced
+99,SQL,What is a window function — How would you debug a problem related to it? (Variant 4),Medium,Not Practiced
+100,SQL,How do indexes improve performance — What trade-offs should an engineer consider? (Variant 4),Hard,Not Practiced
+101,Statistics & Probability,What is mean?,Easy,Not Practiced
+102,Statistics & Probability,What is median?,Easy,Not Practiced
+103,Statistics & Probability,What is variance?,Medium,Not Practiced
+104,Statistics & Probability,What is standard deviation?,Medium,Not Practiced
+105,Statistics & Probability,What is covariance?,Hard,Not Practiced
+106,Statistics & Probability,Correlation vs causation?,Easy,Not Practiced
+107,Statistics & Probability,What is a probability distribution?,Easy,Not Practiced
+108,Statistics & Probability,Explain normal distribution.,Medium,Not Practiced
+109,Statistics & Probability,What is the Central Limit Theorem?,Medium,Not Practiced
+110,Statistics & Probability,What is a confidence interval?,Hard,Not Practiced
+111,Statistics & Probability,What is mean — Explain it with a practical AI/ML example.,Easy,Not Practiced
+112,Statistics & Probability,What is median — What are common interview mistakes about this topic?,Easy,Not Practiced
+113,Statistics & Probability,What is variance — How would you implement it in a real project?,Medium,Not Practiced
+114,Statistics & Probability,What is standard deviation — What are its advantages and limitations?,Medium,Not Practiced
+115,Statistics & Probability,What is covariance — How would you debug a problem related to it?,Hard,Not Practiced
+116,Statistics & Probability,Correlation vs causation — Compare it with the closest alternative.,Easy,Not Practiced
+117,Statistics & Probability,What is a probability distribution — When would you choose it in production?,Easy,Not Practiced
+118,Statistics & Probability,Explain normal distribution. — What trade-offs should an engineer consider?,Medium,Not Practiced
+119,Statistics & Probability,What is the Central Limit Theorem — How would you explain it to a non-technical stakeholder?,Medium,Not Practiced
+120,Statistics & Probability,What is a confidence interval — What follow-up question might an interviewer ask?,Hard,Not Practiced
+121,Statistics & Probability,What is mean — Explain it with a practical AI/ML example. (Variant 3),Easy,Not Practiced
+122,Statistics & Probability,What is median — What are its advantages and limitations? (Variant 3),Easy,Not Practiced
+123,Statistics & Probability,What is variance — When would you choose it in production? (Variant 3),Medium,Not Practiced
+124,Statistics & Probability,What is standard deviation — What follow-up question might an interviewer ask? (Variant 3),Medium,Not Practiced
+125,Statistics & Probability,What is covariance — How would you implement it in a real project? (Variant 3),Hard,Not Practiced
+126,Statistics & Probability,Correlation vs causation — Compare it with the closest alternative. (Variant 3),Easy,Not Practiced
+127,Statistics & Probability,What is a probability distribution — How would you explain it to a non-technical stakeholder? (Variant 3),Easy,Not Practiced
+128,Statistics & Probability,Explain normal distribution. — What are common interview mistakes about this topic? (Variant 3),Medium,Not Practiced
+129,Statistics & Probability,What is the Central Limit Theorem — How would you debug a problem related to it? (Variant 3),Medium,Not Practiced
+130,Statistics & Probability,What is a confidence interval — What trade-offs should an engineer consider? (Variant 3),Hard,Not Practiced
+131,Machine Learning,What is supervised learning?,Easy,Not Practiced
+132,Machine Learning,What is unsupervised learning?,Easy,Not Practiced
+133,Machine Learning,What is semi-supervised learning?,Medium,Not Practiced
+134,Machine Learning,What is self-supervised learning?,Medium,Not Practiced
+135,Machine Learning,Explain regression vs classification.,Hard,Not Practiced
+136,Machine Learning,What is linear regression?,Easy,Not Practiced
+137,Machine Learning,What is logistic regression?,Easy,Not Practiced
+138,Machine Learning,What is a decision tree?,Medium,Not Practiced
+139,Machine Learning,What is random forest?,Medium,Not Practiced
+140,Machine Learning,What is gradient boosting?,Hard,Not Practiced
+141,Machine Learning,What is supervised learning — Explain it with a practical AI/ML example.,Easy,Not Practiced
+142,Machine Learning,What is unsupervised learning — What are common interview mistakes about this topic?,Easy,Not Practiced
+143,Machine Learning,What is semi-supervised learning — How would you implement it in a real project?,Medium,Not Practiced
+144,Machine Learning,What is self-supervised learning — What are its advantages and limitations?,Medium,Not Practiced
+145,Machine Learning,Explain regression vs classification. — How would you debug a problem related to it?,Hard,Not Practiced
+146,Machine Learning,What is linear regression — Compare it with the closest alternative.,Easy,Not Practiced
+147,Machine Learning,What is logistic regression — When would you choose it in production?,Easy,Not Practiced
+148,Machine Learning,What is a decision tree — What trade-offs should an engineer consider?,Medium,Not Practiced
+149,Machine Learning,What is random forest — How would you explain it to a non-technical stakeholder?,Medium,Not Practiced
+150,Machine Learning,What is gradient boosting — What follow-up question might an interviewer ask?,Hard,Not Practiced
+151,Machine Learning,What is supervised learning — Explain it with a practical AI/ML example. (Variant 3),Easy,Not Practiced
+152,Machine Learning,What is unsupervised learning — What are its advantages and limitations? (Variant 3),Easy,Not Practiced
+153,Machine Learning,What is semi-supervised learning — When would you choose it in production? (Variant 3),Medium,Not Practiced
+154,Machine Learning,What is self-supervised learning — What follow-up question might an interviewer ask? (Variant 3),Medium,Not Practiced
+155,Machine Learning,Explain regression vs classification. — How would you implement it in a real project? (Variant 3),Hard,Not Practiced
+156,Machine Learning,What is linear regression — Compare it with the closest alternative. (Variant 3),Easy,Not Practiced
+157,Machine Learning,What is logistic regression — How would you explain it to a non-technical stakeholder? (Variant 3),Easy,Not Practiced
+158,Machine Learning,What is a decision tree — What are common interview mistakes about this topic? (Variant 3),Medium,Not Practiced
+159,Machine Learning,What is random forest — How would you debug a problem related to it? (Variant 3),Medium,Not Practiced
+160,Machine Learning,What is gradient boosting — What trade-offs should an engineer consider? (Variant 3),Hard,Not Practiced
+161,Machine Learning,What is supervised learning — Explain it with a practical AI/ML example. (Variant 4),Easy,Not Practiced
+162,Machine Learning,What is unsupervised learning — What are its advantages and limitations? (Variant 4),Easy,Not Practiced
+163,Machine Learning,What is semi-supervised learning — When would you choose it in production? (Variant 4),Medium,Not Practiced
+164,Machine Learning,What is self-supervised learning — What follow-up question might an interviewer ask? (Variant 4),Medium,Not Practiced
+165,Machine Learning,Explain regression vs classification. — How would you implement it in a real project? (Variant 4),Hard,Not Practiced
+166,Machine Learning,What is linear regression — Compare it with the closest alternative. (Variant 4),Easy,Not Practiced
+167,Machine Learning,What is logistic regression — How would you explain it to a non-technical stakeholder? (Variant 4),Easy,Not Practiced
+168,Machine Learning,What is a decision tree — What are common interview mistakes about this topic? (Variant 4),Medium,Not Practiced
+169,Machine Learning,What is random forest — How would you debug a problem related to it? (Variant 4),Medium,Not Practiced
+170,Machine Learning,What is gradient boosting — What trade-offs should an engineer consider? (Variant 4),Hard,Not Practiced
+171,Machine Learning,What is supervised learning — Explain it with a practical AI/ML example. (Variant 5),Easy,Not Practiced
+172,Machine Learning,What is unsupervised learning — What are its advantages and limitations? (Variant 5),Easy,Not Practiced
+173,Machine Learning,What is semi-supervised learning — When would you choose it in production? (Variant 5),Medium,Not Practiced
+174,Machine Learning,What is self-supervised learning — What follow-up question might an interviewer ask? (Variant 5),Medium,Not Practiced
+175,Machine Learning,Explain regression vs classification. — How would you implement it in a real project? (Variant 5),Hard,Not Practiced
+176,Machine Learning,What is linear regression — Compare it with the closest alternative. (Variant 5),Easy,Not Practiced
+177,Machine Learning,What is logistic regression — How would you explain it to a non-technical stakeholder? (Variant 5),Easy,Not Practiced
+178,Machine Learning,What is a decision tree — What are common interview mistakes about this topic? (Variant 5),Medium,Not Practiced
+179,Machine Learning,What is random forest — How would you debug a problem related to it? (Variant 5),Medium,Not Practiced
+180,Machine Learning,What is gradient boosting — What trade-offs should an engineer consider? (Variant 5),Hard,Not Practiced
+181,Machine Learning,What is supervised learning — Explain it with a practical AI/ML example. (Variant 6),Easy,Not Practiced
+182,Machine Learning,What is unsupervised learning — What are its advantages and limitations? (Variant 6),Easy,Not Practiced
+183,Machine Learning,What is semi-supervised learning — When would you choose it in production? (Variant 6),Medium,Not Practiced
+184,Machine Learning,What is self-supervised learning — What follow-up question might an interviewer ask? (Variant 6),Medium,Not Practiced
+185,Machine Learning,Explain regression vs classification. — How would you implement it in a real project? (Variant 6),Hard,Not Practiced
+186,Machine Learning,What is linear regression — Compare it with the closest alternative. (Variant 6),Easy,Not Practiced
+187,Machine Learning,What is logistic regression — How would you explain it to a non-technical stakeholder? (Variant 6),Easy,Not Practiced
+188,Machine Learning,What is a decision tree — What are common interview mistakes about this topic? (Variant 6),Medium,Not Practiced
+189,Machine Learning,What is random forest — How would you debug a problem related to it? (Variant 6),Medium,Not Practiced
+190,Machine Learning,What is gradient boosting — What trade-offs should an engineer consider? (Variant 6),Hard,Not Practiced
+191,Machine Learning,What is supervised learning — Explain it with a practical AI/ML example. (Variant 7),Easy,Not Practiced
+192,Machine Learning,What is unsupervised learning — What are its advantages and limitations? (Variant 7),Easy,Not Practiced
+193,Machine Learning,What is semi-supervised learning — When would you choose it in production? (Variant 7),Medium,Not Practiced
+194,Machine Learning,What is self-supervised learning — What follow-up question might an interviewer ask? (Variant 7),Medium,Not Practiced
+195,Machine Learning,Explain regression vs classification. — How would you implement it in a real project? (Variant 7),Hard,Not Practiced
+196,Machine Learning,What is linear regression — Compare it with the closest alternative. (Variant 7),Easy,Not Practiced
+197,Machine Learning,What is logistic regression — How would you explain it to a non-technical stakeholder? (Variant 7),Easy,Not Practiced
+198,Machine Learning,What is a decision tree — What are common interview mistakes about this topic? (Variant 7),Medium,Not Practiced
+199,Machine Learning,What is random forest — How would you debug a problem related to it? (Variant 7),Medium,Not Practiced
+200,Machine Learning,What is gradient boosting — What trade-offs should an engineer consider? (Variant 7),Hard,Not Practiced
+201,Machine Learning,What is supervised learning — Explain it with a practical AI/ML example. (Variant 8),Easy,Not Practiced
+202,Machine Learning,What is unsupervised learning — What are its advantages and limitations? (Variant 8),Easy,Not Practiced
+203,Machine Learning,What is semi-supervised learning — When would you choose it in production? (Variant 8),Medium,Not Practiced
+204,Machine Learning,What is self-supervised learning — What follow-up question might an interviewer ask? (Variant 8),Medium,Not Practiced
+205,Machine Learning,Explain regression vs classification. — How would you implement it in a real project? (Variant 8),Hard,Not Practiced
+206,Machine Learning,What is linear regression — Compare it with the closest alternative. (Variant 8),Easy,Not Practiced
+207,Machine Learning,What is logistic regression — How would you explain it to a non-technical stakeholder? (Variant 8),Easy,Not Practiced
+208,Machine Learning,What is a decision tree — What are common interview mistakes about this topic? (Variant 8),Medium,Not Practiced
+209,Machine Learning,What is random forest — How would you debug a problem related to it? (Variant 8),Medium,Not Practiced
+210,Machine Learning,What is gradient boosting — What trade-offs should an engineer consider? (Variant 8),Hard,Not Practiced
+211,Deep Learning,What is a neural network?,Easy,Not Practiced
+212,Deep Learning,What is a loss function?,Easy,Not Practiced
+213,Deep Learning,What is forward propagation?,Medium,Not Practiced
+214,Deep Learning,What is backpropagation?,Medium,Not Practiced
+215,Deep Learning,What is an activation function?,Hard,Not Practiced
+216,Deep Learning,What is ReLU?,Easy,Not Practiced
+217,Deep Learning,What is vanishing gradient?,Easy,Not Practiced
+218,Deep Learning,What is dropout?,Medium,Not Practiced
+219,Deep Learning,What is batch normalization?,Medium,Not Practiced
+220,Deep Learning,What is an epoch?,Hard,Not Practiced
+221,Deep Learning,What is a neural network — Explain it with a practical AI/ML example.,Easy,Not Practiced
+222,Deep Learning,What is a loss function — What are common interview mistakes about this topic?,Easy,Not Practiced
+223,Deep Learning,What is forward propagation — How would you implement it in a real project?,Medium,Not Practiced
+224,Deep Learning,What is backpropagation — What are its advantages and limitations?,Medium,Not Practiced
+225,Deep Learning,What is an activation function — How would you debug a problem related to it?,Hard,Not Practiced
+226,Deep Learning,What is ReLU — Compare it with the closest alternative.,Easy,Not Practiced
+227,Deep Learning,What is vanishing gradient — When would you choose it in production?,Easy,Not Practiced
+228,Deep Learning,What is dropout — What trade-offs should an engineer consider?,Medium,Not Practiced
+229,Deep Learning,What is batch normalization — How would you explain it to a non-technical stakeholder?,Medium,Not Practiced
+230,Deep Learning,What is an epoch — What follow-up question might an interviewer ask?,Hard,Not Practiced
+231,Deep Learning,What is a neural network — Explain it with a practical AI/ML example. (Variant 3),Easy,Not Practiced
+232,Deep Learning,What is a loss function — What are its advantages and limitations? (Variant 3),Easy,Not Practiced
+233,Deep Learning,What is forward propagation — When would you choose it in production? (Variant 3),Medium,Not Practiced
+234,Deep Learning,What is backpropagation — What follow-up question might an interviewer ask? (Variant 3),Medium,Not Practiced
+235,Deep Learning,What is an activation function — How would you implement it in a real project? (Variant 3),Hard,Not Practiced
+236,Deep Learning,What is ReLU — Compare it with the closest alternative. (Variant 3),Easy,Not Practiced
+237,Deep Learning,What is vanishing gradient — How would you explain it to a non-technical stakeholder? (Variant 3),Easy,Not Practiced
+238,Deep Learning,What is dropout — What are common interview mistakes about this topic? (Variant 3),Medium,Not Practiced
+239,Deep Learning,What is batch normalization — How would you debug a problem related to it? (Variant 3),Medium,Not Practiced
+240,Deep Learning,What is an epoch — What trade-offs should an engineer consider? (Variant 3),Hard,Not Practiced
+241,Deep Learning,What is a neural network — Explain it with a practical AI/ML example. (Variant 4),Easy,Not Practiced
+242,Deep Learning,What is a loss function — What are its advantages and limitations? (Variant 4),Easy,Not Practiced
+243,Deep Learning,What is forward propagation — When would you choose it in production? (Variant 4),Medium,Not Practiced
+244,Deep Learning,What is backpropagation — What follow-up question might an interviewer ask? (Variant 4),Medium,Not Practiced
+245,Deep Learning,What is an activation function — How would you implement it in a real project? (Variant 4),Hard,Not Practiced
+246,Deep Learning,What is ReLU — Compare it with the closest alternative. (Variant 4),Easy,Not Practiced
+247,Deep Learning,What is vanishing gradient — How would you explain it to a non-technical stakeholder? (Variant 4),Easy,Not Practiced
+248,Deep Learning,What is dropout — What are common interview mistakes about this topic? (Variant 4),Medium,Not Practiced
+249,Deep Learning,What is batch normalization — How would you debug a problem related to it? (Variant 4),Medium,Not Practiced
+250,Deep Learning,What is an epoch — What trade-offs should an engineer consider? (Variant 4),Hard,Not Practiced
+251,Deep Learning,What is a neural network — Explain it with a practical AI/ML example. (Variant 5),Easy,Not Practiced
+252,Deep Learning,What is a loss function — What are its advantages and limitations? (Variant 5),Easy,Not Practiced
+253,Deep Learning,What is forward propagation — When would you choose it in production? (Variant 5),Medium,Not Practiced
+254,Deep Learning,What is backpropagation — What follow-up question might an interviewer ask? (Variant 5),Medium,Not Practiced
+255,Deep Learning,What is an activation function — How would you implement it in a real project? (Variant 5),Hard,Not Practiced
+256,Deep Learning,What is ReLU — Compare it with the closest alternative. (Variant 5),Easy,Not Practiced
+257,Deep Learning,What is vanishing gradient — How would you explain it to a non-technical stakeholder? (Variant 5),Easy,Not Practiced
+258,Deep Learning,What is dropout — What are common interview mistakes about this topic? (Variant 5),Medium,Not Practiced
+259,Deep Learning,What is batch normalization — How would you debug a problem related to it? (Variant 5),Medium,Not Practiced
+260,Deep Learning,What is an epoch — What trade-offs should an engineer consider? (Variant 5),Hard,Not Practiced
+261,Deep Learning,What is a neural network — Explain it with a practical AI/ML example. (Variant 6),Easy,Not Practiced
+262,Deep Learning,What is a loss function — What are its advantages and limitations? (Variant 6),Easy,Not Practiced
+263,Deep Learning,What is forward propagation — When would you choose it in production? (Variant 6),Medium,Not Practiced
+264,Deep Learning,What is backpropagation — What follow-up question might an interviewer ask? (Variant 6),Medium,Not Practiced
+265,Deep Learning,What is an activation function — How would you implement it in a real project? (Variant 6),Hard,Not Practiced
+266,Deep Learning,What is ReLU — Compare it with the closest alternative. (Variant 6),Easy,Not Practiced
+267,Deep Learning,What is vanishing gradient — How would you explain it to a non-technical stakeholder? (Variant 6),Easy,Not Practiced
+268,Deep Learning,What is dropout — What are common interview mistakes about this topic? (Variant 6),Medium,Not Practiced
+269,Deep Learning,What is batch normalization — How would you debug a problem related to it? (Variant 6),Medium,Not Practiced
+270,Deep Learning,What is an epoch — What trade-offs should an engineer consider? (Variant 6),Hard,Not Practiced
+271,Computer Vision,What is image classification?,Easy,Not Practiced
+272,Computer Vision,What is object detection?,Easy,Not Practiced
+273,Computer Vision,What is semantic segmentation?,Medium,Not Practiced
+274,Computer Vision,What is instance segmentation?,Medium,Not Practiced
+275,Computer Vision,What is convolution?,Hard,Not Practiced
+276,Computer Vision,What is IoU?,Easy,Not Practiced
+277,Computer Vision,What is non-maximum suppression?,Easy,Not Practiced
+278,Computer Vision,What is mAP?,Medium,Not Practiced
+279,Computer Vision,What is transfer learning?,Medium,Not Practiced
+280,Computer Vision,What is image augmentation?,Hard,Not Practiced
+281,Computer Vision,What is image classification — Explain it with a practical AI/ML example.,Easy,Not Practiced
+282,Computer Vision,What is object detection — What are common interview mistakes about this topic?,Easy,Not Practiced
+283,Computer Vision,What is semantic segmentation — How would you implement it in a real project?,Medium,Not Practiced
+284,Computer Vision,What is instance segmentation — What are its advantages and limitations?,Medium,Not Practiced
+285,Computer Vision,What is convolution — How would you debug a problem related to it?,Hard,Not Practiced
+286,Computer Vision,What is IoU — Compare it with the closest alternative.,Easy,Not Practiced
+287,Computer Vision,What is non-maximum suppression — When would you choose it in production?,Easy,Not Practiced
+288,Computer Vision,What is mAP — What trade-offs should an engineer consider?,Medium,Not Practiced
+289,Computer Vision,What is transfer learning — How would you explain it to a non-technical stakeholder?,Medium,Not Practiced
+290,Computer Vision,What is image augmentation — What follow-up question might an interviewer ask?,Hard,Not Practiced
+291,Computer Vision,What is image classification — Explain it with a practical AI/ML example. (Variant 3),Easy,Not Practiced
+292,Computer Vision,What is object detection — What are its advantages and limitations? (Variant 3),Easy,Not Practiced
+293,Computer Vision,What is semantic segmentation — When would you choose it in production? (Variant 3),Medium,Not Practiced
+294,Computer Vision,What is instance segmentation — What follow-up question might an interviewer ask? (Variant 3),Medium,Not Practiced
+295,Computer Vision,What is convolution — How would you implement it in a real project? (Variant 3),Hard,Not Practiced
+296,Computer Vision,What is IoU — Compare it with the closest alternative. (Variant 3),Easy,Not Practiced
+297,Computer Vision,What is non-maximum suppression — How would you explain it to a non-technical stakeholder? (Variant 3),Easy,Not Practiced
+298,Computer Vision,What is mAP — What are common interview mistakes about this topic? (Variant 3),Medium,Not Practiced
+299,Computer Vision,What is transfer learning — How would you debug a problem related to it? (Variant 3),Medium,Not Practiced
+300,Computer Vision,What is image augmentation — What trade-offs should an engineer consider? (Variant 3),Hard,Not Practiced
+301,NLP,What is NLP?,Easy,Not Practiced
+302,NLP,What is tokenization?,Easy,Not Practiced
+303,NLP,What is stemming?,Medium,Not Practiced
+304,NLP,What is lemmatization?,Medium,Not Practiced
+305,NLP,What are stop words?,Hard,Not Practiced
+306,NLP,What is TF-IDF?,Easy,Not Practiced
+307,NLP,What are n-grams?,Easy,Not Practiced
+308,NLP,What are word embeddings?,Medium,Not Practiced
+309,NLP,What is named entity recognition?,Medium,Not Practiced
+310,NLP,What is sentiment analysis?,Hard,Not Practiced
+311,NLP,What is NLP — Explain it with a practical AI/ML example.,Easy,Not Practiced
+312,NLP,What is tokenization — What are common interview mistakes about this topic?,Easy,Not Practiced
+313,NLP,What is stemming — How would you implement it in a real project?,Medium,Not Practiced
+314,NLP,What is lemmatization — What are its advantages and limitations?,Medium,Not Practiced
+315,NLP,What are stop words — How would you debug a problem related to it?,Hard,Not Practiced
+316,NLP,What is TF-IDF — Compare it with the closest alternative.,Easy,Not Practiced
+317,NLP,What are n-grams — When would you choose it in production?,Easy,Not Practiced
+318,NLP,What are word embeddings — What trade-offs should an engineer consider?,Medium,Not Practiced
+319,NLP,What is named entity recognition — How would you explain it to a non-technical stakeholder?,Medium,Not Practiced
+320,NLP,What is sentiment analysis — What follow-up question might an interviewer ask?,Hard,Not Practiced
+321,NLP,What is NLP — Explain it with a practical AI/ML example. (Variant 3),Easy,Not Practiced
+322,NLP,What is tokenization — What are its advantages and limitations? (Variant 3),Easy,Not Practiced
+323,NLP,What is stemming — When would you choose it in production? (Variant 3),Medium,Not Practiced
+324,NLP,What is lemmatization — What follow-up question might an interviewer ask? (Variant 3),Medium,Not Practiced
+325,NLP,What are stop words — How would you implement it in a real project? (Variant 3),Hard,Not Practiced
+326,NLP,What is TF-IDF — Compare it with the closest alternative. (Variant 3),Easy,Not Practiced
+327,NLP,What are n-grams — How would you explain it to a non-technical stakeholder? (Variant 3),Easy,Not Practiced
+328,NLP,What are word embeddings — What are common interview mistakes about this topic? (Variant 3),Medium,Not Practiced
+329,NLP,What is named entity recognition — How would you debug a problem related to it? (Variant 3),Medium,Not Practiced
+330,NLP,What is sentiment analysis — What trade-offs should an engineer consider? (Variant 3),Hard,Not Practiced
+331,Generative AI / LLM,What is generative AI?,Easy,Not Practiced
+332,Generative AI / LLM,What is an LLM?,Easy,Not Practiced
+333,Generative AI / LLM,What is a token?,Medium,Not Practiced
+334,Generative AI / LLM,What is a context window?,Medium,Not Practiced
+335,Generative AI / LLM,What is a transformer?,Hard,Not Practiced
+336,Generative AI / LLM,What is self-attention?,Easy,Not Practiced
+337,Generative AI / LLM,"What are query, key and value vectors?",Easy,Not Practiced
+338,Generative AI / LLM,What is positional encoding?,Medium,Not Practiced
+339,Generative AI / LLM,What is temperature?,Medium,Not Practiced
+340,Generative AI / LLM,What is prompt engineering?,Hard,Not Practiced
+341,Generative AI / LLM,What is generative AI — Explain it with a practical AI/ML example.,Easy,Not Practiced
+342,Generative AI / LLM,What is an LLM — What are common interview mistakes about this topic?,Easy,Not Practiced
+343,Generative AI / LLM,What is a token — How would you implement it in a real project?,Medium,Not Practiced
+344,Generative AI / LLM,What is a context window — What are its advantages and limitations?,Medium,Not Practiced
+345,Generative AI / LLM,What is a transformer — How would you debug a problem related to it?,Hard,Not Practiced
+346,Generative AI / LLM,What is self-attention — Compare it with the closest alternative.,Easy,Not Practiced
+347,Generative AI / LLM,"What are query, key and value vectors — When would you choose it in production?",Easy,Not Practiced
+348,Generative AI / LLM,What is positional encoding — What trade-offs should an engineer consider?,Medium,Not Practiced
+349,Generative AI / LLM,What is temperature — How would you explain it to a non-technical stakeholder?,Medium,Not Practiced
+350,Generative AI / LLM,What is prompt engineering — What follow-up question might an interviewer ask?,Hard,Not Practiced
+351,Generative AI / LLM,What is generative AI — Explain it with a practical AI/ML example. (Variant 3),Easy,Not Practiced
+352,Generative AI / LLM,What is an LLM — What are its advantages and limitations? (Variant 3),Easy,Not Practiced
+353,Generative AI / LLM,What is a token — When would you choose it in production? (Variant 3),Medium,Not Practiced
+354,Generative AI / LLM,What is a context window — What follow-up question might an interviewer ask? (Variant 3),Medium,Not Practiced
+355,Generative AI / LLM,What is a transformer — How would you implement it in a real project? (Variant 3),Hard,Not Practiced
+356,Generative AI / LLM,What is self-attention — Compare it with the closest alternative. (Variant 3),Easy,Not Practiced
+357,Generative AI / LLM,"What are query, key and value vectors — How would you explain it to a non-technical stakeholder? (Variant 3)",Easy,Not Practiced
+358,Generative AI / LLM,What is positional encoding — What are common interview mistakes about this topic? (Variant 3),Medium,Not Practiced
+359,Generative AI / LLM,What is temperature — How would you debug a problem related to it? (Variant 3),Medium,Not Practiced
+360,Generative AI / LLM,What is prompt engineering — What trade-offs should an engineer consider? (Variant 3),Hard,Not Practiced
+361,Generative AI / LLM,What is generative AI — Explain it with a practical AI/ML example. (Variant 4),Easy,Not Practiced
+362,Generative AI / LLM,What is an LLM — What are its advantages and limitations? (Variant 4),Easy,Not Practiced
+363,Generative AI / LLM,What is a token — When would you choose it in production? (Variant 4),Medium,Not Practiced
+364,Generative AI / LLM,What is a context window — What follow-up question might an interviewer ask? (Variant 4),Medium,Not Practiced
+365,Generative AI / LLM,What is a transformer — How would you implement it in a real project? (Variant 4),Hard,Not Practiced
+366,Generative AI / LLM,What is self-attention — Compare it with the closest alternative. (Variant 4),Easy,Not Practiced
+367,Generative AI / LLM,"What are query, key and value vectors — How would you explain it to a non-technical stakeholder? (Variant 4)",Easy,Not Practiced
+368,Generative AI / LLM,What is positional encoding — What are common interview mistakes about this topic? (Variant 4),Medium,Not Practiced
+369,Generative AI / LLM,What is temperature — How would you debug a problem related to it? (Variant 4),Medium,Not Practiced
+370,Generative AI / LLM,What is prompt engineering — What trade-offs should an engineer consider? (Variant 4),Hard,Not Practiced
+371,Generative AI / LLM,What is generative AI — Explain it with a practical AI/ML example. (Variant 5),Easy,Not Practiced
+372,Generative AI / LLM,What is an LLM — What are its advantages and limitations? (Variant 5),Easy,Not Practiced
+373,Generative AI / LLM,What is a token — When would you choose it in production? (Variant 5),Medium,Not Practiced
+374,Generative AI / LLM,What is a context window — What follow-up question might an interviewer ask? (Variant 5),Medium,Not Practiced
+375,Generative AI / LLM,What is a transformer — How would you implement it in a real project? (Variant 5),Hard,Not Practiced
+376,Generative AI / LLM,What is self-attention — Compare it with the closest alternative. (Variant 5),Easy,Not Practiced
+377,Generative AI / LLM,"What are query, key and value vectors — How would you explain it to a non-technical stakeholder? (Variant 5)",Easy,Not Practiced
+378,Generative AI / LLM,What is positional encoding — What are common interview mistakes about this topic? (Variant 5),Medium,Not Practiced
+379,Generative AI / LLM,What is temperature — How would you debug a problem related to it? (Variant 5),Medium,Not Practiced
+380,Generative AI / LLM,What is prompt engineering — What trade-offs should an engineer consider? (Variant 5),Hard,Not Practiced
+381,Generative AI / LLM,What is generative AI — Explain it with a practical AI/ML example. (Variant 6),Easy,Not Practiced
+382,Generative AI / LLM,What is an LLM — What are its advantages and limitations? (Variant 6),Easy,Not Practiced
+383,Generative AI / LLM,What is a token — When would you choose it in production? (Variant 6),Medium,Not Practiced
+384,Generative AI / LLM,What is a context window — What follow-up question might an interviewer ask? (Variant 6),Medium,Not Practiced
+385,Generative AI / LLM,What is a transformer — How would you implement it in a real project? (Variant 6),Hard,Not Practiced
+386,Generative AI / LLM,What is self-attention — Compare it with the closest alternative. (Variant 6),Easy,Not Practiced
+387,Generative AI / LLM,"What are query, key and value vectors — How would you explain it to a non-technical stakeholder? (Variant 6)",Easy,Not Practiced
+388,Generative AI / LLM,What is positional encoding — What are common interview mistakes about this topic? (Variant 6),Medium,Not Practiced
+389,Generative AI / LLM,What is temperature — How would you debug a problem related to it? (Variant 6),Medium,Not Practiced
+390,Generative AI / LLM,What is prompt engineering — What trade-offs should an engineer consider? (Variant 6),Hard,Not Practiced
+391,RAG / Vector DB,What is RAG?,Easy,Not Practiced
+392,RAG / Vector DB,Why use RAG?,Easy,Not Practiced
+393,RAG / Vector DB,What is an embedding?,Medium,Not Practiced
+394,RAG / Vector DB,What is a vector database?,Medium,Not Practiced
+395,RAG / Vector DB,What is semantic search?,Hard,Not Practiced
+396,RAG / Vector DB,What is cosine similarity?,Easy,Not Practiced
+397,RAG / Vector DB,What is chunking?,Easy,Not Practiced
+398,RAG / Vector DB,What is chunk overlap?,Medium,Not Practiced
+399,RAG / Vector DB,What is hybrid search?,Medium,Not Practiced
+400,RAG / Vector DB,What is a reranker?,Hard,Not Practiced
+401,RAG / Vector DB,What is RAG — Explain it with a practical AI/ML example.,Easy,Not Practiced
+402,RAG / Vector DB,Why use RAG — What are common interview mistakes about this topic?,Easy,Not Practiced
+403,RAG / Vector DB,What is an embedding — How would you implement it in a real project?,Medium,Not Practiced
+404,RAG / Vector DB,What is a vector database — What are its advantages and limitations?,Medium,Not Practiced
+405,RAG / Vector DB,What is semantic search — How would you debug a problem related to it?,Hard,Not Practiced
+406,RAG / Vector DB,What is cosine similarity — Compare it with the closest alternative.,Easy,Not Practiced
+407,RAG / Vector DB,What is chunking — When would you choose it in production?,Easy,Not Practiced
+408,RAG / Vector DB,What is chunk overlap — What trade-offs should an engineer consider?,Medium,Not Practiced
+409,RAG / Vector DB,What is hybrid search — How would you explain it to a non-technical stakeholder?,Medium,Not Practiced
+410,RAG / Vector DB,What is a reranker — What follow-up question might an interviewer ask?,Hard,Not Practiced
+411,RAG / Vector DB,What is RAG — Explain it with a practical AI/ML example. (Variant 3),Easy,Not Practiced
+412,RAG / Vector DB,Why use RAG — What are its advantages and limitations? (Variant 3),Easy,Not Practiced
+413,RAG / Vector DB,What is an embedding — When would you choose it in production? (Variant 3),Medium,Not Practiced
+414,RAG / Vector DB,What is a vector database — What follow-up question might an interviewer ask? (Variant 3),Medium,Not Practiced
+415,RAG / Vector DB,What is semantic search — How would you implement it in a real project? (Variant 3),Hard,Not Practiced
+416,RAG / Vector DB,What is cosine similarity — Compare it with the closest alternative. (Variant 3),Easy,Not Practiced
+417,RAG / Vector DB,What is chunking — How would you explain it to a non-technical stakeholder? (Variant 3),Easy,Not Practiced
+418,RAG / Vector DB,What is chunk overlap — What are common interview mistakes about this topic? (Variant 3),Medium,Not Practiced
+419,RAG / Vector DB,What is hybrid search — How would you debug a problem related to it? (Variant 3),Medium,Not Practiced
+420,RAG / Vector DB,What is a reranker — What trade-offs should an engineer consider? (Variant 3),Hard,Not Practiced
+421,RAG / Vector DB,What is RAG — Explain it with a practical AI/ML example. (Variant 4),Easy,Not Practiced
+422,RAG / Vector DB,Why use RAG — What are its advantages and limitations? (Variant 4),Easy,Not Practiced
+423,RAG / Vector DB,What is an embedding — When would you choose it in production? (Variant 4),Medium,Not Practiced
+424,RAG / Vector DB,What is a vector database — What follow-up question might an interviewer ask? (Variant 4),Medium,Not Practiced
+425,RAG / Vector DB,What is semantic search — How would you implement it in a real project? (Variant 4),Hard,Not Practiced
+426,LangChain / LangGraph,What problem does LangChain solve?,Easy,Not Practiced
+427,LangChain / LangGraph,What is a document loader?,Easy,Not Practiced
+428,LangChain / LangGraph,What is a text splitter?,Medium,Not Practiced
+429,LangChain / LangGraph,What is a retriever?,Medium,Not Practiced
+430,LangChain / LangGraph,What is a prompt template?,Hard,Not Practiced
+431,LangChain / LangGraph,What is an output parser?,Easy,Not Practiced
+432,LangChain / LangGraph,What is a chain?,Easy,Not Practiced
+433,LangChain / LangGraph,What is LCEL?,Medium,Not Practiced
+434,LangChain / LangGraph,What is LangGraph?,Medium,Not Practiced
+435,LangChain / LangGraph,What is state in LangGraph?,Hard,Not Practiced
+436,LangChain / LangGraph,What problem does LangChain solve — Explain it with a practical AI/ML example.,Easy,Not Practiced
+437,LangChain / LangGraph,What is a document loader — What are common interview mistakes about this topic?,Easy,Not Practiced
+438,LangChain / LangGraph,What is a text splitter — How would you implement it in a real project?,Medium,Not Practiced
+439,LangChain / LangGraph,What is a retriever — What are its advantages and limitations?,Medium,Not Practiced
+440,LangChain / LangGraph,What is a prompt template — How would you debug a problem related to it?,Hard,Not Practiced
+441,LangChain / LangGraph,What is an output parser — Compare it with the closest alternative.,Easy,Not Practiced
+442,LangChain / LangGraph,What is a chain — When would you choose it in production?,Easy,Not Practiced
+443,LangChain / LangGraph,What is LCEL — What trade-offs should an engineer consider?,Medium,Not Practiced
+444,LangChain / LangGraph,What is LangGraph — How would you explain it to a non-technical stakeholder?,Medium,Not Practiced
+445,LangChain / LangGraph,What is state in LangGraph — What follow-up question might an interviewer ask?,Hard,Not Practiced
+446,LangChain / LangGraph,What problem does LangChain solve — Explain it with a practical AI/ML example. (Variant 3),Easy,Not Practiced
+447,LangChain / LangGraph,What is a document loader — What are its advantages and limitations? (Variant 3),Easy,Not Practiced
+448,LangChain / LangGraph,What is a text splitter — When would you choose it in production? (Variant 3),Medium,Not Practiced
+449,LangChain / LangGraph,What is a retriever — What follow-up question might an interviewer ask? (Variant 3),Medium,Not Practiced
+450,LangChain / LangGraph,What is a prompt template — How would you implement it in a real project? (Variant 3),Hard,Not Practiced
+451,Deployment / APIs / Docker,What is an API?,Easy,Not Practiced
+452,Deployment / APIs / Docker,What is REST?,Easy,Not Practiced
+453,Deployment / APIs / Docker,What is FastAPI?,Medium,Not Practiced
+454,Deployment / APIs / Docker,How do you expose an ML model through FastAPI?,Medium,Not Practiced
+455,Deployment / APIs / Docker,What is request validation?,Hard,Not Practiced
+456,Deployment / APIs / Docker,What is Docker?,Easy,Not Practiced
+457,Deployment / APIs / Docker,What is a Docker image?,Easy,Not Practiced
+458,Deployment / APIs / Docker,What is a Docker container?,Medium,Not Practiced
+459,Deployment / APIs / Docker,What is a Dockerfile?,Medium,Not Practiced
+460,Deployment / APIs / Docker,How do you deploy Streamlit?,Hard,Not Practiced
+461,Deployment / APIs / Docker,What is an API — Explain it with a practical AI/ML example.,Easy,Not Practiced
+462,Deployment / APIs / Docker,What is REST — What are common interview mistakes about this topic?,Easy,Not Practiced
+463,Deployment / APIs / Docker,What is FastAPI — How would you implement it in a real project?,Medium,Not Practiced
+464,Deployment / APIs / Docker,How do you expose an ML model through FastAPI — What are its advantages and limitations?,Medium,Not Practiced
+465,Deployment / APIs / Docker,What is request validation — How would you debug a problem related to it?,Hard,Not Practiced
+466,Deployment / APIs / Docker,What is Docker — Compare it with the closest alternative.,Easy,Not Practiced
+467,Deployment / APIs / Docker,What is a Docker image — When would you choose it in production?,Easy,Not Practiced
+468,Deployment / APIs / Docker,What is a Docker container — What trade-offs should an engineer consider?,Medium,Not Practiced
+469,Deployment / APIs / Docker,What is a Dockerfile — How would you explain it to a non-technical stakeholder?,Medium,Not Practiced
+470,Deployment / APIs / Docker,How do you deploy Streamlit — What follow-up question might an interviewer ask?,Hard,Not Practiced
+471,Projects / Real-world Scenarios,How do you explain an AI/ML project end-to-end?,Easy,Not Practiced
+472,Projects / Real-world Scenarios,What business problem did your project solve?,Easy,Not Practiced
+473,Projects / Real-world Scenarios,How did you validate your data?,Medium,Not Practiced
+474,Projects / Real-world Scenarios,How did you choose the model?,Medium,Not Practiced
+475,Projects / Real-world Scenarios,Which metrics did you use?,Hard,Not Practiced
+476,Projects / Real-world Scenarios,What was your hardest technical challenge?,Easy,Not Practiced
+477,Projects / Real-world Scenarios,How did you handle missing data?,Easy,Not Practiced
+478,Projects / Real-world Scenarios,How did you prevent data leakage?,Medium,Not Practiced
+479,Projects / Real-world Scenarios,How did you improve model performance?,Medium,Not Practiced
+480,Projects / Real-world Scenarios,How would you productionize the project?,Hard,Not Practiced
+481,Projects / Real-world Scenarios,How do you explain an AI/ML project end-to-end — Explain it with a practical AI/ML example.,Easy,Not Practiced
+482,Projects / Real-world Scenarios,What business problem did your project solve — What are common interview mistakes about this topic?,Easy,Not Practiced
+483,Projects / Real-world Scenarios,How did you validate your data — How would you implement it in a real project?,Medium,Not Practiced
+484,Projects / Real-world Scenarios,How did you choose the model — What are its advantages and limitations?,Medium,Not Practiced
+485,Projects / Real-world Scenarios,Which metrics did you use — How would you debug a problem related to it?,Hard,Not Practiced
+486,Projects / Real-world Scenarios,What was your hardest technical challenge — Compare it with the closest alternative.,Easy,Not Practiced
+487,Projects / Real-world Scenarios,How did you handle missing data — When would you choose it in production?,Easy,Not Practiced
+488,Projects / Real-world Scenarios,How did you prevent data leakage — What trade-offs should an engineer consider?,Medium,Not Practiced
+489,Projects / Real-world Scenarios,How did you improve model performance — How would you explain it to a non-technical stakeholder?,Medium,Not Practiced
+490,Projects / Real-world Scenarios,How would you productionize the project — What follow-up question might an interviewer ask?,Hard,Not Practiced
+491,HR / Behavioral,Tell me about yourself.,Easy,Not Practiced
+492,HR / Behavioral,Why do you want this AI/ML Engineer role?,Easy,Not Practiced
+493,HR / Behavioral,Why are you looking for a job change?,Medium,Not Practiced
+494,HR / Behavioral,What are your strengths?,Medium,Not Practiced
+495,HR / Behavioral,What skill are you improving?,Hard,Not Practiced
+496,HR / Behavioral,Tell me about a challenging project.,Easy,Not Practiced
+497,HR / Behavioral,How do you handle deadlines?,Easy,Not Practiced
+498,HR / Behavioral,Where do you see yourself in five years?,Medium,Not Practiced
+499,HR / Behavioral,Why should we hire you?,Medium,Not Practiced
+500,HR / Behavioral,What are your salary expectations?,Hard,Not Practiced
