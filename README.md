@@ -6,6 +6,9 @@ The application helps you manage your daily AI/ML learning, practice, interview 
 
 ---
 
+## 🚀 Live Application
+https://aiml-study-tracker.streamlit.app/
+
 ## 🚀 Features
 
 ### 👩🏻‍💻 Dashboard
