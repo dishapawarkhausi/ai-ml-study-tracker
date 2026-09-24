@@ -1,26 +1,24 @@
-# 🤖 AI/ML Study Tracker
+# 🤖 AI/ML Engineer 120-Day Career Tracker
 
-A complete **120-Day AI/ML Engineer Career Preparation & Progress Tracking application** built with **Python, Streamlit, SQLite, and Pandas**.
+A complete **120-day AI/ML Engineer career preparation and interview tracking application** built with **Python and Streamlit**.
 
-This application helps aspiring AI/ML Engineers organize their learning journey, track daily study progress, practice interview questions, improve technical English, manage job applications, and analyze overall career preparation progress — all from one dashboard.
-
-## 🌐 Live Demo:
-https://aiml-study-tracker.streamlit.app/
+The application helps you manage your daily AI/ML learning, practice, interview preparation, English communication, job applications, and overall progress from one dashboard.
 
 ---
 
 ## 🚀 Features
 
-### 📊 Dashboard
+### 👩🏻‍💻 Dashboard
 
-The dashboard provides a complete overview of your AI/ML preparation journey.
+The dashboard provides an overview of your complete preparation journey.
+
+It includes:
 
 * Overall learning progress
-* Completed tasks
-* Completed study days
-* Job applications
-* Interview questions practiced
-* Daily focus
+* Completed topics
+* Completed days
+* Interview preparation progress
+* Job application count
 * Subject-wise progress
 * 4-month career target
 
@@ -28,295 +26,229 @@ The dashboard provides a complete overview of your AI/ML preparation journey.
 
 ### 📅 Today's Plan
 
-Follow your daily AI/ML learning plan step-by-step.
+Follow your daily study plan from Day 1 to Day 120.
 
-Each day can contain multiple tasks covering:
+Each day contains:
 
-* 📚 Study
-* 💻 Practice
-* 🎤 Interview preparation
-* 🗣️ English practice
-* 🚀 Project work
+* Study topics
+* Study time
+* Practice time
+* Practice tasks
+* Interview preparation
+* English practice
+* Project work
+* Completion checkbox
 
-Tasks can be marked as completed using interactive checkboxes.
-
-A day is considered **completed only when all tasks for that day are completed**.
+You can tick the task after completing it.
 
 ---
 
 ### 🗓️ 120-Day Roadmap
 
-The project includes a structured **4-month / 120-day AI/ML Engineer roadmap**.
+The roadmap is divided into four months.
 
-The roadmap is organized into:
+#### Month 1 — Fundamentals
 
-* Months
-* Weeks
-* Days
-* Subjects
-* Topics
-* Subtopics
-* Study time
-* Practice tasks
-* Interview questions
-* English practice
-* Project work
+* Python
+* NumPy
+* Pandas
+* SQL
+* Mathematics
+* Machine Learning
 
-### Roadmap Structure
+#### Month 2 — Deep Learning
 
-```text
-Month 1
-├── Python
-├── NumPy
-├── Pandas
-├── SQL
-├── Mathematics
-└── Machine Learning
+* Neural Networks
+* TensorFlow
+* PyTorch
+* Computer Vision
+* NLP
+* CNN
+* RNN/LSTM
 
-Month 2
-├── Deep Learning
-├── PyTorch / TensorFlow
-├── Computer Vision
-└── NLP
+#### Month 3 — Generative AI
 
-Month 3
-├── Generative AI
-├── LLMs
-├── Transformers
-├── RAG
-├── Vector Databases
-├── LangChain
-└── LangGraph
+* Generative AI
+* LLMs
+* Transformers
+* Prompt Engineering
+* Embeddings
+* Vector Databases
+* RAG
+* LangChain
+* LangGraph
+* Hugging Face
 
-Month 4
-├── AI/ML Projects
-├── FastAPI
-├── Docker
-├── Deployment
-├── Interview Preparation
-└── Job Applications
-```
+#### Month 4 — Projects & Job Preparation
+
+* AI/ML Projects
+* GenAI Projects
+* FastAPI
+* Docker
+* Deployment
+* Git/GitHub
+* Interview Preparation
+* Resume Preparation
+* Job Applications
 
 ---
 
 ## 🎤 Interview Preparation
 
-The application includes an interview preparation system with **500 AI/ML interview questions**.
+The application includes **500 AI/ML interview questions**.
 
-Questions cover:
+Questions cover areas such as:
 
 * Python
 * SQL
-* Statistics & Probability
 * Machine Learning
 * Deep Learning
-* Computer Vision
 * NLP
-* Generative AI / LLM
-* RAG / Vector Databases
-* LangChain / LangGraph
-* Deployment / APIs / Docker
-* Real-world AI/ML scenarios
-* HR / Behavioral questions
+* Computer Vision
+* Generative AI
+* LLMs
+* Transformers
+* RAG
+* LangChain
+* LangGraph
+* Hugging Face
+* Projects
+* HR Interview
 
-### Interview Features
+Each question can be marked as:
 
-* Search questions
-* Filter by category
-* Filter by difficulty
-* Filter by preparation status
-* Track practiced questions
-* Track confident questions
+* ⬜ Not Practiced
+* 🟡 Practiced
+* 🟢 Confident
 
-### Interview Status
-
-```text
-⬜ Not Practiced
-🟡 Practiced
-🟢 Confident
-```
+Interview progress is tracked automatically.
 
 ---
 
 ## 🗣️ English Practice
 
-A dedicated **30-minute daily English practice system** designed for technical communication and interviews.
+The application includes daily English practice to improve technical communication and interview confidence.
 
-### Daily Routine
+### Daily 30-Minute Routine
 
-```text
-10 Minutes → Read Aloud
-10 Minutes → Technical Speaking
-10 Minutes → Interview Speaking
-```
+**10 minutes — Reading**
 
-The system provides AI/ML-related speaking topics and interview questions so that technical English improves alongside technical preparation.
+Read an AI/ML topic aloud.
+
+**10 minutes — Technical Speaking**
+
+Explain an AI/ML concept in your own words.
+
+**10 minutes — Interview Speaking**
+
+Practice answering AI/ML interview questions aloud.
 
 ---
 
-## 💼 Job Application Tracker
+## 💼 Job Tracker
 
-Track AI/ML Engineer job applications directly inside the application.
+Track your AI/ML job applications from one place.
 
-### Application Information
+You can record:
 
 * Company
-* Role
-* Source
-* Location / Remote
-* Status
+* Job role
+* Location
+* Application source
+* Application status
 * Notes
-* Application date
 
-### Application Status
+Supported statuses include:
 
-```text
-Applied
-Recruiter Contact
-Interview
-Technical Round
-HR Round
-Rejected
-Offer
-Withdrawn
-```
-
-### Job Analytics
-
-The application displays:
-
-* Total applications
-* Interviews
-* Offers
+* Applied
+* Recruiter Contact
+* Interview
+* Technical Round
+* HR Round
+* Rejected
+* Offer
+* Withdrawn
 
 ---
 
-## 📈 Learning Analytics
+## 📈 Analytics
 
-Track your preparation progress over time.
+Track your preparation progress using:
 
-### Weekly Analytics
-
-Displays:
-
-* Total tasks
-* Completed tasks
 * Weekly progress
-
-### Monthly Analytics
-
-Displays:
-
-* Total tasks
-* Completed tasks
 * Monthly progress
-
-Charts are generated directly inside Streamlit.
+* Overall progress
+* Subject-wise progress
+* Interview progress
+* Job application statistics
 
 ---
 
-## 🗄️ Database
+# ☁️ Persistent Cloud Database
 
-The project uses **SQLite** for persistent local data storage.
+The application supports **Supabase** for persistent cloud storage.
 
-The database stores:
+This is important when deploying the application on Streamlit Community Cloud.
 
-### Tasks
+Without a persistent database, local SQLite data can be lost when the application restarts or is redeployed.
 
-```text
-task_id
-Day
-Week
-Month
-Subject
-Topic
-Subtopic
-What_to_Learn
-Study_Time
-Practice_Time
-Practice_Task
-Interview_Time
-Interview_Question
-English_Time
-English_Practice
-Project_Work
-completed
-```
+With Supabase:
 
-### Interview Questions
+* ✅ Completed tasks remain completed
+* ✅ Progress survives refresh
+* ✅ Interview status remains saved
+* ✅ English progress remains saved
+* ✅ Job applications remain saved
+* ✅ Data can be accessed from different devices
 
-```text
-id
-Category
-Question
-Difficulty
-Status
-```
-
-### English Practice
-
-```text
-Day
-completed
-```
-
-### Job Applications
-
-```text
-id
-company
-role
-source
-location
-status
-notes
-applied_date
-```
+The application can also use the local SQLite database for local development when Supabase is not configured.
 
 ---
 
 # 🛠️ Tech Stack
 
-| Technology | Purpose                  |
-| ---------- | ------------------------ |
-| Python     | Application development  |
-| Streamlit  | Web application UI       |
-| Pandas     | Data processing          |
-| SQLite     | Database                 |
-| SQL        | Data storage and queries |
-| HTML/CSS   | UI customization         |
-| Git/GitHub | Version control          |
+* Python
+* Streamlit
+* Pandas
+* SQLite
+* Supabase
+* PostgreSQL
+* SQL
+* Git
+* GitHub
 
 ---
 
 # 📁 Project Structure
 
 ```text
-AI-ML-Study-Tracker/
+AIML_Career/
 │
 ├── app.py
 ├── database.py
-├── interview_questions_seed.csv
+├── requirements.txt
+├── supabase_schema.sql
+├── README.md
+├── .gitignore
+├── .env
 │
 ├── data/
 │   └── tracker.db
 │
-├── requirements.txt
-├── README.md
-└── .gitignore
+└── assets/
 ```
+
+> `.env` and local database files should not be committed to GitHub.
 
 ---
 
 # ⚙️ Installation
 
-## 1. Clone the Repository
+## 1. Clone the repository
 
 ```bash
 git clone https://github.com/dishapawarkhausi/ai-ml-study-tracker.git
 ```
-
-Move into the project directory:
 
 ```bash
 cd AI-ML-Study-Tracker
@@ -324,7 +256,7 @@ cd AI-ML-Study-Tracker
 
 ---
 
-## 2. Create a Virtual Environment
+## 2. Create a virtual environment
 
 ### Windows
 
@@ -338,13 +270,11 @@ Activate it:
 .venv\Scripts\activate
 ```
 
-### macOS / Linux
+### macOS/Linux
 
 ```bash
 python3 -m venv .venv
 ```
-
-Activate it:
 
 ```bash
 source .venv/bin/activate
@@ -352,7 +282,7 @@ source .venv/bin/activate
 
 ---
 
-## 3. Install Dependencies
+## 3. Install dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -360,7 +290,49 @@ pip install -r requirements.txt
 
 ---
 
-# ▶️ Run the Application
+# 🔐 Environment Variables
+
+Create a `.env` file for local development.
+
+```env
+SUPABASE_URL=https://YOUR_PROJECT_ID.supabase.co
+SUPABASE_KEY=YOUR_SUPABASE_SERVICE_ROLE_KEY
+```
+
+### Important
+
+Never commit your real `.env` file to GitHub.
+
+The `.gitignore` file should contain:
+
+```gitignore
+.env
+.streamlit/secrets.toml
+*.db
+*.sqlite
+*.sqlite3
+```
+
+---
+
+# 🗄️ Supabase Setup
+
+1. Create a Supabase project.
+2. Open the Supabase SQL Editor.
+3. Open the project's:
+
+```text
+supabase_schema.sql
+```
+
+4. Run the SQL script.
+5. Copy your Supabase project URL.
+6. Copy the required Supabase API key.
+7. Add them to your environment variables.
+
+---
+
+# ▶️ Run Locally
 
 Start the Streamlit application:
 
@@ -370,205 +342,133 @@ streamlit run app.py
 
 The application will open in your browser.
 
-Usually:
+---
+
+# ☁️ Deploy on Streamlit Community Cloud
+
+1. Push the project to GitHub.
+2. Open Streamlit Community Cloud.
+3. Create a new application.
+4. Select your GitHub repository.
+5. Select:
 
 ```text
-http://localhost:8501
+app.py
 ```
+
+as the main file.
+6. Deploy the application.
 
 ---
 
-# 📦 requirements.txt
+## 🔑 Streamlit Secrets
 
-Example:
+For the deployed application, add your Supabase credentials in:
 
 ```text
-streamlit
-pandas
+Streamlit Cloud
+→ App Settings
+→ Secrets
 ```
 
-SQLite is included with Python, so it does not need to be installed separately.
+Use:
+
+```toml
+SUPABASE_URL = "https://YOUR_PROJECT_ID.supabase.co"
+SUPABASE_KEY = "YOUR_SUPABASE_SERVICE_ROLE_KEY"
+```
+
+Do **not** put these credentials directly inside `app.py`.
 
 ---
 
-# 🧠 How the Progress System Works
+# 🎯 Project Goal
 
-The project tracks progress at the **task level**.
+The goal of this application is to provide a single platform for preparing for an **AI/ML Engineer job within 120 days**.
 
-For example:
-
-```text
-Day 1
-├── Python Study        ✅
-├── Python Practice     ✅
-├── Interview Practice  ✅
-├── English Practice    ✅
-└── Project Work        ✅
-```
-
-When all tasks for Day 1 are completed:
+The preparation combines:
 
 ```text
-Days Completed = 1
-```
-
-If only 3 out of 5 tasks are completed:
-
-```text
-Day Progress = 60%
-Days Completed = 0
-```
-
-This prevents partially completed days from being incorrectly counted as completed days.
-
----
-
-# 🎯 Career Preparation Goal
-
-The tracker is designed around a practical AI/ML Engineer preparation journey.
-
-The main goal is to develop skills in:
-
-```text
-Python
-   ↓
-Data Analysis
-   ↓
-SQL
-   ↓
-Mathematics & Statistics
-   ↓
-Machine Learning
-   ↓
-Deep Learning
-   ↓
-Computer Vision
-   ↓
-NLP
-   ↓
-Generative AI
-   ↓
-LLMs
-   ↓
-RAG
-   ↓
-Vector Databases
-   ↓
-LangChain / LangGraph
-   ↓
-AI/ML Projects
-   ↓
-FastAPI
-   ↓
-Docker
-   ↓
-Deployment
-   ↓
+AI/ML Learning
+       ↓
+Daily Practice
+       ↓
+Projects
+       ↓
 Interview Preparation
-   ↓
+       ↓
+English Communication
+       ↓
 Job Applications
+       ↓
+Interview Tracking
+       ↓
+Job Search
 ```
 
 ---
 
-# 💡 Why I Built This Project
+# 📌 Recommended Daily Routine
 
-Preparing for an AI/ML Engineer role requires managing multiple areas simultaneously:
+A typical preparation day can include:
 
-* Technical learning
-* Hands-on practice
-* Projects
-* Interview preparation
-* Communication skills
-* Job applications
+| Activity            | Suggested Time |
+| ------------------- | -------------: |
+| AI/ML Theory        |      2–3 hours |
+| Coding Practice     |      1–2 hours |
+| Project Work        |      1–2 hours |
+| Interview Questions |  30–60 minutes |
+| English Practice    |     30 minutes |
+| Job Applications    |  30–60 minutes |
 
-Instead of using separate notebooks, spreadsheets, and applications, this project combines these activities into a single career preparation dashboard.
-
----
-
-# 🔮 Future Improvements
-
-Possible future versions can include:
-
-* 🔐 User authentication
-* ☁️ Cloud database
-* 📱 Mobile-friendly interface
-* 🔔 Daily reminders
-* 🤖 AI-powered study assistant
-* 🧠 AI-generated interview answers
-* 📄 Resume analyzer
-* 🎯 Job recommendation system
-* 📊 Advanced analytics
-* 📝 Personal notes for every topic
-* 🔗 Job posting links
-* 📅 Calendar integration
-* 🌐 Online deployment
-* 🤖 AI-powered career recommendations
+The exact schedule depends on the day's roadmap.
 
 ---
 
-# 📸 Application Modules
+# 🔒 Security
 
-The application contains the following modules:
+Never commit the following to GitHub:
 
-```text
-🤖 AI/ML Tracker
-│
-├── 👩🏻‍💻 Dashboard
-├── 📅 Today's Plan
-├── 🗓️ 120-Day Roadmap
-├── 🎤 Interview
-├── 🗣️ English
-├── 💼 Job Tracker
-└── 📈 Analytics
-```
+* Supabase service-role key
+* API keys
+* `.env`
+* Streamlit secrets
+* Passwords
+* Private credentials
+* Local database files containing private information
+
+Use environment variables or Streamlit Secrets for credentials.
 
 ---
 
-# 🧪 Project Highlights
-
-This project demonstrates practical experience with:
-
-* Streamlit application development
-* SQLite database management
-* CRUD operations
-* Pandas DataFrames
-* Interactive data editors
-* Progress tracking
-* Data visualization
-* Form handling
-* Application state management
-* SQL aggregation
-* Modular Python development
-* Career-oriented dashboard design
-
----
-
-# 👩‍💻 Author
+# 👩🏻‍💻 Author
 
 **Disha Pawar**
 
 AI/ML Developer
 
-Interested in:
-
-* Artificial Intelligence
-* Machine Learning
-* Generative AI
-* LLM Applications
-* RAG
-* Computer Vision
-* NLP
-* AI/ML Engineering
+This project was created as a personal AI/ML career preparation and productivity application.
 
 ---
 
-# ⭐ Support
+## ⭐ Future Improvements
 
-If you find this project useful, consider giving the repository a ⭐ on GitHub.
+Possible future features:
+
+* Learning Hub with YouTube playlists and videos
+* Topic-wise documentation
+* Personal notes
+* Study streaks
+* Resume tracker
+* Interview feedback tracker
+* AI-powered interview practice
+* AI mock interviews
+* Daily reminders
+* More analytics
+* Personalized learning recommendations
 
 ---
 
 ## 📄 License
 
-This project is available for educational and portfolio purposes.
+This project is intended for personal learning and career preparation.

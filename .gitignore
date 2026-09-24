@@ -1,6 +1,13 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
 # Python
 __pycache__/
 *.py[cod]
+*.pyo
+*.pyd
 
 # Virtual environment
 .venv/
@@ -10,13 +17,30 @@ env/
 # Streamlit
 .streamlit/secrets.toml
 
-# OS
+# Local database
+*.db
+*.sqlite
+*.sqlite3
+data/tracker.db
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
 .DS_Store
 Thumbs.db
 
-# VS Code
-.vscode/
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
 
 # Temporary files
 *.tmp
-*.log
+*.temp
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
